@@ -48,3 +48,4 @@ for i in range(99999,10000,-1):
 '''
 print(f(13))
 print(f1(12345))
+print(f1(2334))
